@@ -1,5 +1,5 @@
 # drumkit2
-project1
+Project for improving javascript knowledge.
 
 Drumkit using JS
 https://heysujal.github.io/drumkit2/
